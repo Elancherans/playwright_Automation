@@ -1,0 +1,11 @@
+{
+    "editor.overtypeOnPaste": false,
+    "editor.overtypeCursorStyle": "line",
+    "editor.autoClosingOvertype": "never",
+    "editor.quickSuggestions": {
+
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    }
+}
